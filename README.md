@@ -1,2 +1,2 @@
-Dive_into_Python_Pracice
+Dive_into_Python_Practice 
 ========================
