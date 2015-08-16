@@ -36,3 +36,27 @@ list_1.insert(2, "andre")
 print list_1
 list_1.extend(["two","elements"])
 print list_1
+
+print
+print list_1
+print list_1.index("zach", )
+print list_1.index("steph")
+
+print
+print list_1
+list_1.remove("two")
+print list_1
+print list_1.pop()
+print list_1
+
+print
+list_2=['a', 'b', 'data', 'warriors']
+list_2=list_2+['golden', 'state']
+print list_2
+list_2+=['champion']
+print list_2
+
+print
+list_3=['5', '32']
+list_3=list_3*3
+print list_3
