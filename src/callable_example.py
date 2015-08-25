@@ -15,4 +15,4 @@ print callable(string.punctuation)
 print callable(string.join)
 
 print
-print string.join.__doc__
+#print string.join.__doc__

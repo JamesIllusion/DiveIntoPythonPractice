@@ -13,3 +13,5 @@ print getattr(li, "append")("magic")
 print li
 
 print
+print getattr({}, "clear")
+#print getattr((), "pop")
